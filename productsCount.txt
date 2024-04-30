@@ -1,0 +1,127 @@
+1359;Grava para construcción- saco de 20 kg;$18101
+6142;Conduit- rollo de 50 metros- diámetro estándar;$23621
+9304;Carretillas- unidad estándar- capacidad para 100 kg;$33366
+7851;Desagües pluviales- juego de 5 unidades- tamaño estándar;$39998
+1987;Aislamiento- rollo de 20 metros cuadrados- espesor estándar;$17341
+6863;Martillos- juego de 3 martillos- variedad de tamaños y pesos;$35069
+5045;Baldosas de linóleo- rollo de 5 m²;$20953
+5836;Clavos- caja de 1000 unidades- variedad de tamaños;$28167
+7750;Taladros- juego de 2 taladros- inalámbricos y con cable;$15886
+7145;Cajas de interruptores- paquete de 10 unidades- tamaño estándar;$61003
+2815;Pintura impermeabilizante- bote de 10 litros- para cubrir 50 m²;$80515
+5613;Madera aserrada- tablones de 2"x4"x8' (5 cm x 10 cm x 244 cm);$34476
+1428;Paneles de yeso resistentes a la humedad- paquete de 5 unidades- tamaño estándar;$35388
+3911;Tableros de yeso- paquete de 10 unidades- tamaño estándar;$42052
+2647;Grúas- servicio de alquiler por día;$85216
+2008;Tornillos para madera- caja de 500 unidades;$62207
+1350;Clavos- caja de 1000 unidades- variedad de tamaños;$18430
+4127;Ventanas de aluminio- unidad estándar de 120 cm x 120 cm;$47905
+5542;Conexiones de fontanería- caja de 100 unidades- variedad de tamaños;$54094
+2327;Tornillos para concreto- caja de 200 unidades- tamaño estándar;$85380
+2626;Baldosas de vinilo- rollo de 3 m²;$58252
+2916;Hormigoneras- unidad estándar- capacidad para 150 litros;$24342
+6536;Pintura ignífuga- bote de 5 litros- para uso en áreas específicas;$17463
+1962;Puertas de madera- juego de 3 puertas- estándar de 80 cm x 200 cm;$27528
+1149;Yeso en polvo- bolsa de 25 kg;$39549
+9406;Cajas de conexiones eléctricas- juego de 15 unidades- tamaño estándar;$21725
+9640;Carretillas- unidad estándar- capacidad para 100 kg;$86844
+4974;Bolsa de cemento- 50 kg por bolsa;$70119
+3088;Mortero premezclado- saco de 25 kg;$11356
+2391;Tornillos para madera- caja de 500 unidades;$65131
+8348;Tablones de madera- paquete de 10 unidades- tamaño estándar;$98364
+6314;Cajas de interruptores- paquete de 10 unidades- tamaño estándar;$32995
+5769;Rodapiés- paquete de 20 metros lineales- tamaño estándar;$97121
+9699;Puertas de madera- juego de 3 puertas- estándar de 80 cm x 200 cm;$90174
+2004;Pistolas de clavos- unidad estándar- con cartuchos incluidos;$17186
+8423;Gafas de seguridad- paquete de 5 unidades- diseño ergonómico y protección UV;$63022
+5406;Vigas de madera- pieza de 6"x6"x12' (15 cm x 15 cm x 366 cm);$63886
+9525;Tubos de PVC- rollo de 50 metros- diámetro estándar;$89476
+8219;Material de techo- kit completo para cubrir una superficie de 100 m²;$62050
+8638;Pintura ignífuga- bote de 5 litros- para uso en áreas específicas;$11467
+3299;Martillos- juego de 3 martillos- variedad de tamaños y pesos;$22562
+8667;Martillos- juego de 3 martillos- variedad de tamaños y pesos;$50626
+4354;Tornillos para metal- caja de 500 unidades- variedad de tamaños;$79558
+3374;Duchas- juego de 2 duchas- tamaño estándar;$98080
+4191;Tubos de PVC- rollo de 50 metros- diámetro estándar;$51931
+1772;Rodapiés- paquete de 20 metros lineales- tamaño estándar;$17015
+7275;Martillos- juego de 3 martillos- variedad de tamaños y pesos;$32555
+3285;Taladros- juego de 2 taladros- inalámbricos y con cable;$46775
+1080;Paneles aislantes- caja de 10 paneles- tamaño estándar;$81130
+7959;Desagües pluviales- juego de 5 unidades- tamaño estándar;$28782
+7513;Tableros de yeso- paquete de 10 unidades- tamaño estándar;$63417
+5710;Lavabos de baño- juego de 5 lavabos- tamaño estándar;$75280
+7034;Paneles de techo- paquete de 10 paneles- tamaño estándar;$95106
+4042;Pegamento para azulejos- bote de 20 kg;$70810
+7314;Lavabos de baño- juego de 5 lavabos- tamaño estándar;$41111
+8394;Tornillos para yeso- caja de 1000 unidades- tamaño estándar;$67211
+9366;Clavos- caja de 1000 unidades- variedad de tamaños;$44359
+6821;Paneles solares- sistema de 20 paneles- capacidad estándar;$18359
+3644;Yeso en polvo- bolsa de 25 kg;$20364
+8886;Duchas- juego de 2 duchas- tamaño estándar;$94282
+8818;Madera contrachapada- lámina de 4'x8' (122 cm x 244 cm)- espesor de 3/4" (1.9 cm);$33590
+2719;Conexiones de fontanería- caja de 100 unidades- variedad de tamaños;$83681
+5752;Paneles eléctricos- unidad estándar de 16 circuitos;$41227
+6044;Carretillas- unidad estándar- capacidad para 100 kg;$91510
+8750;Paneles de yeso resistentes a la humedad- paquete de 5 unidades- tamaño estándar;$48880
+3199;Ladrillos tipo prensado- tamaño estándar: paquete de 500 unidades;$11893
+2876;Tornillos para metal- caja de 500 unidades- variedad de tamaños;$94788
+8330;Ventiladores de techo- juego de 3 ventiladores- diseño moderno;$27207
+1242;Tornillos para yeso- caja de 1000 unidades- tamaño estándar;$50455
+6577;Inodoros- juego de 3 inodoros- tamaño estándar;$52662
+7420;Duchas- juego de 2 duchas- tamaño estándar;$94310
+6060;Grifos- juego de 3 grifos- tamaño estándar;$26110
+1875;Duchas- juego de 2 duchas- tamaño estándar;$94872
+9623;Selladores- caja de 20 tubos- variedad de tipos;$45842
+4612;Tableros de yeso- paquete de 10 unidades- tamaño estándar;$24631
+3643;Yeso en polvo- bolsa de 25 kg;$37555
+7410;Tornillos para metal- caja de 500 unidades- variedad de tamaños;$20239
+6850;Láminas de yeso- hoja de 4'x8' (122 cm x 244 cm);$45108
+6861;Fontanería- kit básico de fontanería para baños y cocinas;$22110
+1785;Marcos de puertas- juego de 3 marcos- estándar de 80 cm x 200 cm;$31670
+4826;Accesorios de tuberías- paquete de 50 piezas- incluye codos- uniones y tapones;$66681
+4401;Cableado estructurado- rollo de 500 metros- categoría 6;$11261
+1776;Tornillos para metal- caja de 500 unidades- variedad de tamaños;$15141
+7890;Paneles eléctricos- unidad estándar de 16 circuitos;$49047
+5498;Baldosas de piedra- paquete de 10 unidades- tamaño estándar;$76286
+5070;Desagües pluviales- juego de 5 unidades- tamaño estándar;$19927
+2896;Gafas de seguridad- paquete de 5 unidades- diseño ergonómico y protección UV;$57343
+2720;Baldosas de vinilo- rollo de 3 m²;$11077
+6980;Selladores- caja de 20 tubos- variedad de tipos;$53554
+2652;Pegamento para madera- bote de 1 litro- para uso en carpintería;$22002
+2027;Tornillos para metal- caja de 500 unidades- variedad de tamaños;$82421
+1280;Lavabos de baño- juego de 5 lavabos- tamaño estándar;$88816
+5946;Canalones- juego completo para cubrir el perímetro del techo de una casa;$44610
+6384;Silicona- tubo de 300 ml- para uso general;$37115
+5423;Paneles solares- sistema de 20 paneles- capacidad estándar;$48583
+5088;Selladores- caja de 20 tubos- variedad de tipos;$83583
+4239;Hormigoneras- unidad estándar- capacidad para 150 litros;$62655
+2616;Gafas de seguridad- paquete de 5 unidades- diseño ergonómico y protección UV;$55729
+7691;Granito- losa de 60 cm x 120 cm- espesor de 3 cm;$94142
+9673;Paneles de yeso resistentes a la humedad- paquete de 5 unidades- tamaño estándar;$89857
+2946;Bolsa de cemento- 50 kg por bolsa;$10741
+3839;Bloques de concreto- palet de 100 unidades;$77883
+8404;Tornillos para madera- caja de 500 unidades;$38410
+1609;Brochas de pintura- juego de 5 brochas- tamaño estándar;$55485
+1817;Mármol- losa de 60 cm x 120 cm- espesor de 2 cm;$72160
+6529;Grava para construcción- saco de 20 kg;$10465
+7810;Baldosas de linóleo- rollo de 5 m²;$23394
+3495;Lavabos de baño- juego de 5 lavabos- tamaño estándar;$98365
+2077;Cajas de interruptores- paquete de 10 unidades- tamaño estándar;$61475
+3563;Brochas de pintura- juego de 5 brochas- tamaño estándar;$28900
+1097;Conexiones eléctricas- caja de 100 unidades- variedad de tipos;$70339
+2003;Bidés- juego de 2 bidés- tamaño estándar;$43187
+4597;Pintura ignífuga- bote de 5 litros- para uso en áreas específicas;$91816
+3010;Paneles solares- sistema de 20 paneles- capacidad estándar;$64280
+9412;Interruptores- juego de 10 interruptores- diseño estándar;$25934
+4493;Duchas- juego de 2 duchas- tamaño estándar;$21743
+4081;Martillos- juego de 3 martillos- variedad de tamaños y pesos;$68735
+1230;Rodillos de pintura- juego de 3 rodillos- tamaño estándar;$47679
+5761;Desagües pluviales- juego de 5 unidades- tamaño estándar;$62862
+3721;Lámparas- juego de 5 lámparas de techo- diseño moderno;$74113
+9456;Mármol- losa de 60 cm x 120 cm- espesor de 2 cm;$27476
+8747;Tubos de PVC- rollo de 50 metros- diámetro estándar;$29576
+1320;Baldosas de piedra- paquete de 10 unidades- tamaño estándar;$50321
+8893;Paneles eléctricos- unidad estándar de 16 circuitos;$58948
+7660;Tornillos para yeso- caja de 1000 unidades- tamaño estándar;$25564
+4713;Pintura ignífuga- bote de 5 litros- para uso en áreas específicas;$24401
+6532;Mármol- losa de 60 cm x 120 cm- espesor de 2 cm;$80214
